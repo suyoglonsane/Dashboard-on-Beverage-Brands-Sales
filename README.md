@@ -10,3 +10,5 @@ This Power BI dashboard provides a comprehensive analysis of sales performance a
 The dashboard leverages interactive visuals to make data exploration intuitive and actionable. It demonstrates the application of data analytics to gain business insights and drive informed decision-making.
 
 **Tools Used:** Power BI, DAX, Data Modeling  
+
+![Dashboard on Beverage Brands Sales](https://github.com/user-attachments/assets/2e7a5ffb-1134-4a09-9a6f-2c3ce11aa654)
